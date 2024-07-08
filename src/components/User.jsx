@@ -7,7 +7,7 @@ const User = () => {
         <img src={logo} alt="logo" />
       </div>
       <div className="info">
-        <p>Todo App</p>
+        <p>Todo List</p>
         <a href="#" className='text-blue-500'>Logout!</a>
       </div>
     </div>
